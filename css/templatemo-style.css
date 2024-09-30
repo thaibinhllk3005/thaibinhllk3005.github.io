@@ -53,7 +53,7 @@ p {
 .section-heading em {
   font-style: normal;
   font-weight: 700;
-  color: #45489a;
+  color: #59D9CC;
 }
 
 .section-heading p {
@@ -68,7 +68,7 @@ p {
 .white-button a {
   font-size: 13px;
   font-weight: 600;
-  color: #45489a;
+  color: #59D9CC;
   text-transform: capitalize;
   background-color: #fff;
   display: inline-block;
@@ -81,7 +81,7 @@ p {
 }
 
 .white-button a:hover {
-  background-color: #45489a;
+  background-color: #59D9CC;
   color: #fff;
 }
 
@@ -90,7 +90,7 @@ p {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #45489a;
+  background-color: #59D9CC;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -102,7 +102,7 @@ p {
 
 .accent-button a:hover {
   background-color: #fff;
-  color: #45489a;
+  color: #59D9CC;
 }
 
 header {
@@ -181,7 +181,7 @@ header {
   float: left;
   height: 100%;
   position: fixed;
-  background-color: rgba(12,12,12,0.9);
+  background-color: #ffffff2e;
   z-index: 10;
 }
 
@@ -197,7 +197,7 @@ header {
 
 .sidebar-navigation .logo a {
   text-decoration: none;
-  color: #fff;
+  color: #fffdfd;
   font-size: 24px;
   font-weight: 700;
   text-transform: uppercase;
@@ -238,7 +238,7 @@ header {
 }
 .sidebar-navigation nav a{
   display: inline-block;
-  color: #fff;
+  color: #59D9CC;
   margin-top: 5px;
   text-decoration: none!important;
   font-size: 15px;
@@ -253,7 +253,7 @@ header {
   top: -1px;
   border-radius: 50%;
   background-color: transparent;
-  border: 2px solid #fff;
+  border: 2px solid #e8c4f2;
   transition: all 0.3s;
 }
 .rect{
@@ -267,10 +267,10 @@ header {
   transition: transform 0.1s, width 0.6s;
 }
 .sidebar-navigation nav a:focus {
-  color: #fff;
+  color: #e8c4f2;
 }
 .sidebar-navigation nav a:hover, nav .active-section {
-  color: #fff;
+  color: #e8c4f2;
 }
 .sidebar-navigation nav a:hover span, nav .active-section span{
   background-color: #ddd;
@@ -279,7 +279,7 @@ header {
   width: 30px;
 }
 .sidebar-navigation nav .active-section .circle{
-  background-color: #fff;
+  background-color: #e8c4f2;
 }
 
 .sidebar-navigation .social-icons {
@@ -308,7 +308,7 @@ header {
 }
 
 .sidebar-navigation .social-icons li a:hover {
-  color: #45489a;
+  color: #59D9CC;
 }
 
 
@@ -349,7 +349,7 @@ header {
   margin-top: 0px;
   margin-bottom: 15px;
   font-size: 48px;
-  color: #fff;
+  color: #e8c4f2  ;
   font-weight: 700;
 }
 
@@ -486,7 +486,7 @@ header {
 }
 
 #featured .owl-dots .active span {
-  background-color: #45489a!important;
+  background-color: #59D9CC!important;
 }
 
 #featured .owl-dots button {
@@ -522,7 +522,7 @@ header {
 }
 
 #featured .owl-nav span:hover {
-  background-color: #45489a;
+  background-color: #59D9CC;
   color: #fff;
 }
 
@@ -547,7 +547,7 @@ header {
   color: #fff;
   text-align: center;
   text-transform: capitalize;
-  background-color: rgba(69,72,154, 0.9);
+  background-color: #59D9CC;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -736,7 +736,7 @@ header {
   height: 90px;
   width: 100%;
   background-color: #eee;
-  border-bottom: 10px solid #45489a;
+  border-bottom: 10px solid #59D9CC;
 }
 
 #blog .tabs li {
@@ -762,7 +762,7 @@ header {
 }
 
 #blog .tabs a:hover {
-  color: #45489a;
+  color: #59D9CC;
 }
 
 
@@ -771,7 +771,7 @@ header {
 }
 
 #blog .tabs .active {
-  background-color: #45489a;
+  background-color: #59D9CC;
   color: #fff;
 }
 
@@ -890,7 +890,7 @@ header {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #45489a;
+  background-color: #59D9CC;
   display: inline-block;
   height: 44px;
   line-height: 24px;
@@ -912,7 +912,7 @@ header {
 /* Footer Style */
 
 .footer {
-  background-color: rgba(12,12,12,0.9);
+  background-color: #B6D6F2;
   height: 80px;
   line-height: 80px;
   display: inline-block;
