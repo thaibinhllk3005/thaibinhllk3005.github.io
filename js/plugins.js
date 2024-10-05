@@ -6264,16 +6264,16 @@
 	Navigation.Defaults = {
 		nav: false,
 		navText: [
-			'<span aria-label="' + 'prev' + '">&#x2039;</span>',
-			'<span aria-label="' + 'next' + '">&#x203a;</span>'
+			// '<span aria-label="' + 'prev' + '">&#x2039;</span>',
+			// '<span aria-label="' + 'next' + '">&#x203a;</span>'
 		],
 		navSpeed: false,
-		navElement: 'button role="presentation"',
+		// navElement: 'button role="presentation"',
 		navContainer: false,
 		navContainerClass: 'owl-nav',
 		navClass: [
-			'owl-prev',
-			'owl-next'
+			// 'owl-prev',
+			// 'owl-next'
 		],
 		slideBy: 1,
 		dotClass: 'owl-dot',
